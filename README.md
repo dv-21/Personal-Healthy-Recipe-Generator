@@ -13,7 +13,7 @@ Let's start living healthy today!
 File structure: 
 1 python file
 1 csv file
-1 README txt file
+1 README file
 
 Order of operations:
 1. Open folder in VS Code
