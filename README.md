@@ -12,14 +12,14 @@ Let's start living healthy today!
 
 File structure: 
 1 python file
-1 csv file
-1 README file
 
 Order of operations:
-1. Open folder in VS Code
-2. Open CMD terminal
-3. Activate virtual environment: myenv\Scripts\activate
-4. run the code in the CMD terminal: python recipes.py
+1. Download and store epi_r.csv file from the Kaggle link provided below in the same folder as the recipes.py file
+2. Open folder in VS Code
+3. Open CMD terminal
+4. Start a Virtual environment in cmd: python -m venv myenv
+5. Activate virtual environment: myenv\Scripts\activate
+6. run the code in the CMD terminal: python recipes.py
 
 Made by:
 Devendra Dutta
