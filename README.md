@@ -19,7 +19,8 @@ Order of operations:
 3. Open CMD terminal
 4. Start a Virtual environment in cmd: python -m venv myenv
 5. Activate virtual environment: myenv\Scripts\activate
-6. run the code in the CMD terminal: python recipes.py
+6. Install pandas: pip install pandas
+7. run the code in the CMD terminal: python recipes.py
 
 Made by:
 Devendra Dutta
